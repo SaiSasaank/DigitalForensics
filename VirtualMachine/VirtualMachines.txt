@@ -1,0 +1,1 @@
+The two virtual machines in this folder are Windows10 and Linux which are customized for the course - Digital Forensics
